@@ -1,7 +1,9 @@
 # Kuzhal Music App 
 
+```  https://saravana-kuzhal.netlify.app/  ``` <hr> <a href="https://saravana-kuzhal.netlify.app/" > Kuzhal-MusicApp Live DEMO </a>
 <li> A fancy music player web app built with React  </li>
-<li> After completing Learning reactjs this is my first project using React library  </li>
+<li> After completing Learning ReactJS this is my first project using React library  </li>
+<li> Used Copyright free English Musics for Testing </li>
 <br>
 
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/francislagares/waves-music-app/CI?style=for-the-badge&labelColor=black&logo=github)
@@ -21,10 +23,18 @@
     <img src="https://img.shields.io/badge/font awesome-339AF0.svg?&style=for-the-badge&logo=font-awesome&logoColor=white" />
   </a>
 </p>
+<hr>
 
 ## Screenshots
 
-!["Player_library_opened"](./src/assets/readme/readme-screenshot.png "Player with library opened")
+
+Destop view: <br> <br>
+![Kuzhal-1](https://user-images.githubusercontent.com/63772127/141684509-2d6c4742-0f56-477d-aa05-63c1004e726a.png) <br>
+![kuzhal-2](https://user-images.githubusercontent.com/63772127/141684536-3885e6be-ce25-4ce2-9695-8914c589c4d7.png) <br>
+
+Mobile view :  <br> <br>
+![kuzhal-mobile](https://user-images.githubusercontent.com/63772127/141684347-bc418a60-856a-4835-8b55-292232e4edc3.png)
+
 
 
 # Status : 
