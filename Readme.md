@@ -1,6 +1,6 @@
 # Kuzhal Music App 
 
-```  https://saravana-kuzhal.netlify.app/  ``` <hr> <a href="https://saravana-kuzhal.netlify.app/" > Kuzhal-MusicApp Live DEMO </a>
+```  https://saravana-kuzhal.netlify.app/  ``` <hr> <a href="https://kuzhal-musicplayer-app-saravana.netlify.app/" > Kuzhal-MusicApp Live DEMO </a>
 <li> A fancy music player web app built with React  </li>
 <li> After completing Learning ReactJS this is my first project using React library  </li>
 <li> Used Copyright free English Musics for Testing </li>
